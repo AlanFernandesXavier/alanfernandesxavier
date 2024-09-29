@@ -39,19 +39,23 @@ Sou estudante de **Desenvolvimento de Sistemas** no Senac e apaixonado por tecno
  
 </div>
 
-## 📫 Vamos nos conectar!
+## 📱 Vamos nos conectar!
 
 <div> 
   <a href="https://www.instagram.com/alanfernandesxavier/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <span style="margin: 0 10px;"></span> <!-- Espaçamento entre os ícones -->
+  <span style="margin: 0 10px;"></span> 
   <a href="mailto:alanfernandesxavier1994@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <span style="margin: 0 10px;"></span> <!-- Espaçamento entre os ícones -->
+  <span style="margin: 0 10px;"></span>
   <a href="https://www.linkedin.com/in/alan-fernandes-xavier-86bba711b/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <span style="margin: 0 10px;"></span>
+  <a href="https://wa.me/558499766476" target="_blank">
+    <img src="https://img.shields.io/badge/-WhatsApp-%2343B057?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
 </div>
 
