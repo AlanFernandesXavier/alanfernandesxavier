@@ -1,16 +1,29 @@
-## Hi there 👋
+# Olá, eu sou o Alan! 👋
 
-<!--
-**AlanFernandesXavier/alanfernandesxavier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de **Desenvolvimento de Sistemas** no Senac e apaixonado por tecnologia. Tenho uma mente inquisitiva e adoro explorar novas áreas dentro da Tecnologia da Informação. Sou dedicado e comprometido com meu crescimento profissional, buscando constantemente aprimorar minhas habilidades e conhecimentos.
 
-Here are some ideas to get you started:
+## 💻 Tecnologias e Ferramentas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Linguagens:** Python, JavaScript, TypeScript
+- **Frameworks:** Django, React
+- **Banco de Dados:** PostgreSQL, MongoDB
+- **DevOps:** Docker, Docker Compose
+- **Outros:** Git, GitHub, APIs REST
+
+## 🌟 Projetos Recentes
+
+- **[TodoList](link_do_repositorio)**: Um sistema de gerenciamento de tarefas com funcionalidades de adicionar, editar e deletar tarefas.
+- **[Music Store](link_do_repositorio)**: Uma loja de música desenvolvida com Django e Django REST Framework.
+- **[Planner Digital](link_do_repositorio)**: Um planejador digital que organiza sprints e tarefas de projetos.
+
+## 📈 Objetivos
+
+Atualmente, estou buscando oportunidades para aprimorar minhas habilidades em desenvolvimento web e contribuir para projetos desafiadores. Estou sempre aberto a aprender e colaborar!
+
+## 📫 Vamos nos conectar!
+
+- [LinkedIn](link_do_linkedin)
+- [Twitter](link_do_twitter)
+- [Portfólio](link_do_portfolio)
+
+Sinta-se à vontade para explorar meus projetos e entrar em contato!
