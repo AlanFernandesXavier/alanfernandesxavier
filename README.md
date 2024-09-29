@@ -8,8 +8,6 @@ Sou estudante de **Desenvolvimento de Sistemas** no Senac e apaixonado por tecno
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 
-_generated with [Platane/snk](https://github.com/alanfernandesxavier/snk)_
-
 ## 🌟 Projetos Recentes
 
 - **[TodoList](link_do_repositorio)**: Um sistema de gerenciamento de tarefas com funcionalidades de adicionar, editar e deletar tarefas.
