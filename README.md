@@ -2,6 +2,14 @@
 
 Sou estudante de **Desenvolvimento de Sistemas** no Senac e apaixonado por tecnologia. Tenho uma mente inquisitiva e adoro explorar novas áreas dentro da Tecnologia da Informação. Sou dedicado e comprometido com meu crescimento profissional, buscando constantemente aprimorar minhas habilidades e conhecimentos.
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
+
+_generated with [Platane/snk](https://github.com/alanfernandesxavier/snk)_
+
 ## 🌟 Projetos Recentes
 
 - **[TodoList](link_do_repositorio)**: Um sistema de gerenciamento de tarefas com funcionalidades de adicionar, editar e deletar tarefas.
