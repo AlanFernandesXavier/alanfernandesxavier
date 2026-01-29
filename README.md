@@ -36,39 +36,82 @@
 
 <br><br>
 
-
 <div align="center">
 
-| | | |
-|:-:|:-:|:-:|
-|![General stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlanFernandesXavier&theme=github_dark) | ![Top languages by repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlanFernandesXavier&theme=github_dark) |![Commits per day](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AlanFernandesXavier&theme=github_dark) |
-
-
-| | |
-|:-:|:-:|
-| ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlanFernandesXavier&theme=github_dark)  | ![](https://github-readme-stats-fast.vercel.app/api/streak?username=AlanFernandesXavier&theme=github_dark)
-
+<table>
+  <tr>
+    <td>
+      <img
+        src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlanFernandesXavier&theme=github_dark"
+        alt="Estatísticas gerais"
+      />
+    </td>
+    <td>
+      <img
+        src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlanFernandesXavier&theme=github_dark"
+        alt="Linguagens por repositório"
+      />
+    </td>
+    <td>
+      <img
+        src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AlanFernandesXavier&theme=github_dark"
+        alt="Produtividade por horário"
+      />
+    </td>
+  </tr>
+</table>
 
 <br>
 
+<table>
+  <tr>
+    <td>
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlanFernandesXavier&theme=github_dark"
+        alt="Detalhes do perfil"
+      />
+    </td>
+    <td>
+      <img
+        src="https://github-readme-stats-fast.vercel.app/api/streak?username=AlanFernandesXavier&theme=github_dark"
+        alt="Sequência de commits"
+      />
+    </td>
+  </tr>
+</table>
 
-
-
-
-<div align="center" style="display: inline_block">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Arduino.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Octave-Dark.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg" />
 </div>
+
+
+
+
+
+<div align="center" style="display: inline_block"><br>
+  <!-- Linguagens -->
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" />
+
+  <!-- Bancos de Dados -->
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" />
+
+  <!-- DevOps / Infra -->
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Kubernetes.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Nginx.svg" />
+
+  <!-- Frameworks -->
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Spring-Dark.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NestJS-Dark.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" />
+
+  <!-- Observabilidade -->
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Grafana-Dark.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Prometheus.svg" />
+</div>
+
 
 <br><br>
 
@@ -76,23 +119,32 @@
 <div align="center">
   <samp><b>Contact me:</b></samp>
   <br><br>
+<div align="center">
 
-  <a href="mailto:SEU_EMAIL_AQUI">
+  <a href="mailto:alanfernandesxavier1994@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-0D47A1?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
-  <a href="SEU_LINK_AQUI">
-    <img src="https://img.shields.io/badge/Instagram-1565C0?style=for-the-badge&logo=instagram&logoColor=white" />
+  <!-- Instagram: link NÃO confirmado -->
+  <a href="SEU_LINK_INSTAGRAM_AQUI">
+    <img src="https://img.shields.io/badge/Instagram-0D47A1?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 
-  <a href="SEU_LINK_AQUI">
-    <img src="https://img.shields.io/badge/Discord-1976D2?style=for-the-badge&logo=discord&logoColor=white" />
+  <!-- Discord: link NÃO confirmado -->
+  <a href="SEU_LINK_DISCORD_AQUI">
+    <img src="https://img.shields.io/badge/Discord-0D47A1?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 
-  <a href="SEU_LINK_AQUI">
+  <a href="https://www.linkedin.com/in/alan-fernandes-xavier-86bba71b">
     <img src="https://img.shields.io/badge/LinkedIn-0D47A1?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
+  <a href="https://wa.me/5584987501630">
+    <img src="https://img.shields.io/badge/WhatsApp-0D47A1?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+
 </div>
+
 
 <br><br>
 
