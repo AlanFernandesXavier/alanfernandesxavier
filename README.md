@@ -119,21 +119,17 @@
 <div align="center">
   <samp><b>Contact me:</b></samp>
   <br><br>
-<div align="center">
 
   <a href="mailto:alanfernandesxavier1994@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-0D47A1?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
-  <!-- Instagram: link NÃO confirmado -->
-  <a href="SEU_LINK_INSTAGRAM_AQUI">
+  <a href="https://www.instagram.com/alanfernandesxavier">
     <img src="https://img.shields.io/badge/Instagram-0D47A1?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 
-  <!-- Discord: link NÃO confirmado -->
-  <a href="SEU_LINK_DISCORD_AQUI">
-    <img src="https://img.shields.io/badge/Discord-0D47A1?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
+  <!-- Discord não possui link público -->
+  <img src="https://img.shields.io/badge/Discord-alan9669-0D47A1?style=for-the-badge&logo=discord&logoColor=white" />
 
   <a href="https://www.linkedin.com/in/alan-fernandes-xavier-86bba71b">
     <img src="https://img.shields.io/badge/LinkedIn-0D47A1?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -142,7 +138,6 @@
   <a href="https://wa.me/5584987501630">
     <img src="https://img.shields.io/badge/WhatsApp-0D47A1?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-
 </div>
 
 
