@@ -86,14 +86,30 @@
 
 
 
-<div align="center" style="display: inline_block"><br>
+<div align="center"><br>
+
   <!-- Linguagens -->
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" />
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" />
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" />
 
+
+  <!-- Frameworks / Backend -->
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Spring-Dark.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NestJS-Dark.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ExpressJS-Dark.svg" />
+
+
+  <!-- Frontend -->
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" />
+
+
+
   <!-- Bancos de Dados -->
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" />
+ 
+
+
 
   <!-- DevOps / Infra -->
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" />
@@ -102,15 +118,20 @@
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg" />
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Nginx.svg" />
 
-  <!-- Frameworks -->
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Spring-Dark.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NestJS-Dark.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" />
+
+
+  <!-- Cloud -->
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Dark.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Azure-Dark.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GCP-Dark.svg" />
+
 
   <!-- Observabilidade -->
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Grafana-Dark.svg" />
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Prometheus.svg" />
+
 </div>
+
 
 
 <br><br>
@@ -129,7 +150,7 @@
   </a>
 
   <!-- Discord não possui link público -->
-  <img src="https://img.shields.io/badge/Discord-alan9669-0D47A1?style=for-the-badge&logo=discord&logoColor=white" />
+ 
 
   <a href="https://www.linkedin.com/in/alan-fernandes-xavier-86bba71b">
     <img src="https://img.shields.io/badge/LinkedIn-0D47A1?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -138,6 +159,8 @@
   <a href="https://wa.me/5584987501630">
     <img src="https://img.shields.io/badge/WhatsApp-0D47A1?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
+
+   <img src="https://img.shields.io/badge/Discord-alan9669-0D47A1?style=for-the-badge&logo=discord&logoColor=white" />
 </div>
 
 
