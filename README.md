@@ -39,14 +39,15 @@
 
 <div align="center">
 
+| | | |
+|:-:|:-:|:-:|
+|![General stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlanFernandesXavier&theme=github_dark) | ![Top languages by repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlanFernandesXavier&theme=github_dark) |![Commits per day](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AlanFernandesXavier&theme=github_dark) |
+
 
 | | |
 |:-:|:-:|
-| ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlanFernandesXavier&theme=nord_dark) | ![](https://github-readme-stats-fast.vercel.app/api?username=AlanFernandesXavier&show_icons=true&theme=github_dark) |
+| ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlanFernandesXavier&theme=github_dark)  | ![](https://github-readme-stats-fast.vercel.app/api/streak?username=AlanFernandesXavier&theme=github_dark)
 
-| | |
-|:-:|:-:|
-| ![](https://github-readme-stats-fast.vercel.app/api/streak?username=AlanFernandesXavier&theme=github_dark) | ![](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AlanFernandesXavier&layout=compact&theme=github_dark) |
 
 <br>
 
