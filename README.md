@@ -11,7 +11,7 @@
 <div align="center">
   <b>`プ ロ グ ラ マ`</b>
   <samp>
-    <br>
+    <br />
     Hi there! I'm <b>ALAN FERNANDES XAVIER</b>
   </samp>
 </div>
@@ -19,59 +19,59 @@
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=64B5F6&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+an+Information+Technology+student;Focused+on+DevOps;Be+welcome!" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Iosevka&color=64B5F6&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+an+Information+Technology+student;Focused+on+DevOps;Be+welcome!"
+    alt="Typing SVG"
+  />
 </div>
 
 <br>
-
 <div align="center">
-  <img src="https://img.shields.io/badge/ALAN_🛡️-0D47A1?style=flat&logoColor=white" />
+
+**ALAN 🛡️**
+
 </div>
+
+
 
 <br><br>
 
 
-| Stats | Repos per Language | Profile |
-|:-----:|:------------------:|:-------:|
-| ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlanFernandesXavier&theme=nord_dark) | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlanFernandesXavier&theme=nord_dark) | ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlanFernandesXavier&theme=nord_dark) |
-
-| Most Commit Language | Productive Time |
-|:--------------------:|:---------------:|
-| ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlanFernandesXavier&theme=nord_dark) | ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AlanFernandesXavier&theme=nord_dark&utcOffset=-3) |
-
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img
-      src="https://github-readme-streak-stats.herokuapp.com?user=AlanFernandesXavier&theme=tokyonight&hide_border=true&locale=pt_BR"
-      alt="GitHub Streak"
-    />
-  </a>
-</div>
+
+
+| | |
+|:-:|:-:|
+| ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlanFernandesXavier&theme=nord_dark) | ![](https://github-readme-stats-fast.vercel.app/api?username=AlanFernandesXavier&show_icons=true&theme=github_dark) |
+
+| | |
+|:-:|:-:|
+| ![](https://github-readme-stats-fast.vercel.app/api/streak?username=AlanFernandesXavier&theme=github_dark) | ![](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AlanFernandesXavier&layout=compact&theme=github_dark) |
+
+<br>
 
 
 
 
 
-
-<!-- SKILLS -->
 <div align="center" style="display: inline_block">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Arduino.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Octave-Dark.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Arduino.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Octave-Dark.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg" />
 </div>
 
 <br><br>
 
-<!-- CONTACT -->
+
 <div align="center">
   <samp><b>Contact me:</b></samp>
   <br><br>
@@ -94,6 +94,8 @@
 </div>
 
 <br><br>
+
+## 👀 Visitors
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=AlanFernandesXavier&style=flat-square&color=0D47A1" />
