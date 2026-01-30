@@ -52,7 +52,6 @@
   </tr>
 </table>
 
-<br>
 
 <table>
   <tr>
@@ -73,7 +72,7 @@
 
 </div>
 
-<br><br>
+<br>
 
 <div align="center">
 
@@ -111,7 +110,7 @@
 
 </div>
 
-<br><br>
+<br>
 
 <div align="center">
   <samp><b>Contact me:</b></samp>
